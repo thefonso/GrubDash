@@ -15,5 +15,9 @@ Step 4 - run locally:
 
 Open `localhost:5000`
 
-End point test: GET /orders or /dishes and you should see data on screen
+End point test: 
 
+GET /orders or /dishes and you should see data on screen
+
+Part 2 - Checklist:
+- Go to "Requirements to pass" in the curriculum and verify what you see there.
