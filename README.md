@@ -4,7 +4,7 @@ Before download: make sure code passes tests in Qualified then...
 
 Download this repo:
 
-`git clone https://github.com/thefonso/GrubDash.git`
+`git clone https://github.com/thefonso/GrubDash-backend.git`
 
 Installation:
 
