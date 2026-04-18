@@ -1,5 +1,6 @@
 # GrubDash
 
+Before download: make sure code passes tests in Qualified
 
 Step 0 - Download this repo:
 
