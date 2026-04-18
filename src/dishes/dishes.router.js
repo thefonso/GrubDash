@@ -9,6 +9,10 @@ router
   .put(controller.update)
   .all(notAllowed);
 
-router.route("/").get(controller.list).post(controller.create).all(notAllowed);
+router
+  .route("/")
+  .get(controller.list)
+  .post(controller.create)
+  .all(notAllowed);
 
 module.exports = router;
