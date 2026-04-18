@@ -81,6 +81,7 @@ function idExists(req, res, next) {
     message: `Dish does not exist ${dishId}`,
   });
 }
+
 function read(req, res, next) {
   return res.json({ data: res.locals.findId });
 }
